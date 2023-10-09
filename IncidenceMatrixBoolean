@@ -38,8 +38,8 @@
         }
       ],
       "source": [
-        "#AGUS_ARIFUDIN\n",
-        "#A11.2021.13736\n",
+        "#helmiscotya\n",
+        "#A11.2021.13449\n",
         "\n",
         "import pandas as pd\n",
         "from sklearn.feature_extraction.text import CountVectorizer\n",
